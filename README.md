@@ -62,7 +62,7 @@ Maqsadim — zamonaviy, kuchli, mustahkam arxitekturaga ega web ilovalar yaratad
 # 📫 Menga Bog‘laning
 
 - **Email:** muhammadjonovsardorbek07@gmail.com  
-- **Telegram:** @S_150907  
+- **Telegram:** http://t.me/S_150907  
 - **LinkedIn:** https://www.linkedin.com/in/sardorbek-muhamamdjonov-860623395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
